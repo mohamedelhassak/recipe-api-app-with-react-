@@ -52,7 +52,7 @@ const getRecipes = async () => {
     <div className="App">
       <form onSubmit={getSearch} className="search-form"> 
         <input 
-        placeholder="This App Can Only Take 10 request every one min.... wach sma3tii"
+        placeholder="This App Can Only Take 10 request every one min.... "
           className="search-bar"
           type="text"
           value={search}
